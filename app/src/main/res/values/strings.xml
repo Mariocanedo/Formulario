@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nombre">NAME</string>
+    <string name="apellido">LASTANAME</string>
+    <string name="email">EMAIL</string>
+    <string name="phone">PHONE</string>
+
+
+    <string name="VOLVER">VOLVER</string>
+</resources>
